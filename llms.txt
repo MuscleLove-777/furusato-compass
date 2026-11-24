@@ -1,0 +1,12 @@
+# ふるさと納税コンパス | お得な返礼品・ポータル徹底比較 2026
+
+> ふるさと納税の返礼品・ポータルサイトを徹底比較。楽天ふるさと納税・さとふる・ふるなび・ふるさとチョイスのキャンペーン・還元率・口コミを毎日更新。AIで最適な寄付先を見つける。
+
+## Main Pages
+
+- [furusato compass](https://musclelove-777.github.io/furusato-compass/): main page of ふるさと納税コンパス | お得な返礼品・ポータル徹底比較 2026.
+
+## About this file
+
+This llms.txt follows the llmstxt.org proposal and lists the main entry points of this site for LLM-based crawlers and AI search agents.
+Generated automatically from sitemap.xml. Source repository: https://github.com/MuscleLove-777/furusato-compass
